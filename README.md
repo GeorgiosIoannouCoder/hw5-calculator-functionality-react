@@ -30,3 +30,5 @@ npm start
 My solution of **hw5-calculator-functionality-react** has been deployed using GitHub Pages and can be found [here](https://hw5-calculator-functionality-react.onrender.com).
 
 ## Demo
+
+https://github.com/GeorgiosIoannouCoder/hw5-calculator-functionality-react/assets/110848236/dd41a27d-619a-4af3-adef-8868796b8269
