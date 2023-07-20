@@ -27,7 +27,7 @@ npm start
 
 ## Hosting Site
 
-My solution of **hw5-calculator-functionality-react** has been deployed using GitHub Pages and can be found [here](https://hw5-calculator-functionality-react.onrender.com).
+My solution of **hw5-calculator-functionality-react** has been deployed using Render and can be found [here](https://hw5-calculator-functionality-react.onrender.com).
 
 ## Demo
 
